@@ -19,7 +19,7 @@ Main task is to detect whether a given review is fraudulent or not. If it is com
   <li>Seaborn</li>
   <li>Warnings</li>
   <li>nltk</li>
-  <li>nltk.Corpus</li>
+  <li>nltk.corpus</li>
   <li>String</li>
   <li>sklearn.naive_bayes</li>
   <li>sklearn.feature_extraction</li>
