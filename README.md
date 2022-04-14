@@ -6,11 +6,11 @@ Detection of fake reviews out of a massive collection of reviews having various 
 
 Main task is to detect whether a given review is fraudulent or not. If it is computer generated then it is considered fake otherwise not.
 
-# Description
+## Description
 
  Description: The generated fake reviews dataset, containing 20k fake reviews and 20k real product reviews. OR = Original reviews (presumably human created and authentic); CG = Computer-generated fake reviews. 
  
- # Python Libraries and Packages Used
+## Python Libraries and Packages Used
  
  <ul>
   <li>Numpy</li>
